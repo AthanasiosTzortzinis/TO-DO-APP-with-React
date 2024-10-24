@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App {
   text-align: center;
   margin-top: 50px;
@@ -24,3 +25,33 @@ div {
 span {
   margin-left: 10px;
 }
+=======
+
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    margin-left: 5px;
+    padding: 5px 10px;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+  div {
+    margin: 10px 0;
+  }
+  
+  span {
+    margin-left: 10px;
+  }
+  
+>>>>>>> 0008716e12d068de2fc80ab5243081f3827247b6
