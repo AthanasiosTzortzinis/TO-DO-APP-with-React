@@ -1,0 +1,39 @@
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  padding: 10px;
+  border-bottom: 1px solid #d58d8d; 
+  margin: 10px 0;
+}
+
+
+.todo-item input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+
+.todo-text {
+  flex: 1; 
+  text-align: left; 
+}
+
+
+.completed {
+  text-decoration: line-through; 
+  color: grey; 
+}
+
+
+.edit-btn, .delete-btn, .save-btn {
+  margin-left: 10px;
+}
+
+
+.edit-input {
+  margin-left: 10px;
+  padding: 5px;
+  font-size: 16px;
+  width: 150px; 
+}
