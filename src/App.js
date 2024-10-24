@@ -3,11 +3,6 @@ import React, { useState } from 'react';
 import './App.css';
 import TodoList from './Components/TodoList';
 import TodoForm from './Components/TodoForm';
-<<<<<<< HEAD
-=======
-import TodoItem from './Components/TodoItem';
-
->>>>>>> 0008716e12d068de2fc80ab5243081f3827247b6
 
 function App() {
   const [todos, setTodos] = useState([]);
